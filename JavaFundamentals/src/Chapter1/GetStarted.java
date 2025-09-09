@@ -1,3 +1,4 @@
+package Chapter1;
 
 /**
  * @author Sinenhlanhla Mchunu

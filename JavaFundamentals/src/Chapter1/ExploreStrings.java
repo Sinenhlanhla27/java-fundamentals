@@ -1,3 +1,5 @@
+package Chapter1;
+
 /**
  * @author Sinenhlanhla Mchunu
  * This class demonstrate the use of different methods

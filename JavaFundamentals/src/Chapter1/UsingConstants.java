@@ -1,3 +1,5 @@
+package Chapter1;
+
 /**
  * @author Sinenhlanhla Mchunu
  * Using constant values: Shouldn't change during program
