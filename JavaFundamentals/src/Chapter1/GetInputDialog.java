@@ -1,5 +1,6 @@
+package Chapter1;
+
 import javax.swing.*;
-import java.util.Scanner;
 
 public class GetInputDialog {
     public static void main(String[] args) {

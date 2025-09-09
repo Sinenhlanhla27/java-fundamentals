@@ -1,4 +1,5 @@
-import java.util.Scanner;
+package Chapter1;
+
 /**
  * @author Sinenhlanhla Mchunu
  * This class shows different escape characters
